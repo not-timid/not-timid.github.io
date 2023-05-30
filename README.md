@@ -1,2 +1,5 @@
 # not-timid.github.io
-Homepage for NOT-TIMID.com
+
+__Homepage for NOT-TIMID.com__
+
+https://not-timid.com/
